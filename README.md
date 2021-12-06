@@ -1,20 +1,23 @@
-## Your Name
+## Raven Reynolds Sears
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm an American in London, minus the werewolf aspect. I've spent the last year teaching myself, as much as I can, and am now enrolled at Makers Academy! 🥳 What excites me about tech is the many ways to write code, and collaborative it is. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+| **Final project**            | A webapp to do x. | Ruby              |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Babes and Bad Examples** (September 2018 to Present)  
+_Jeweller_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Handmakes all jewellery
+- Manages e-commerce platform
+- Manages all social media and paid promotions
+- 
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -53,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2021 to March 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
