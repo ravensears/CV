@@ -14,12 +14,12 @@ I'm an American in London, minus the werewolf aspect. I've spent the last year t
 **Babes and Bad Examples** (September 2018 to Present)  
 _Jeweller_
 
-- Handmakes all jewellery
+- Silversmith
 - Manages e-commerce platform
 - Manages all social media and paid promotions
 - 
 
-**Company Name** (start-date to end-date)  
+**LuxDeco Ltd.** (August 2016 to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
@@ -77,4 +77,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love playing Elder Scrolls Online on Xbox.
+I like reading books and listeing to podcasts.
+I am learning to meditate. 
