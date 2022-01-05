@@ -1,6 +1,6 @@
 ## Raven Reynolds Sears
 
-I'm an American in London, minus the werewolf aspect. I've spent the last year teaching myself, as much as I can, and am now enrolled at Makers Academy! 🥳 What excites me about tech is the many ways to write code, and collaborative it is. 
+I'm an American in London, minus the werewolf aspect. I've spent the last year teaching myself, as much as I can, and am now enrolled at Makers Academy! 🥳 What excites me about tech: the many ways to write code and how collaborative it is. 
 
 ## Projects
 
