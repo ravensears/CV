@@ -6,7 +6,7 @@ Proficient in various languages, such as Javascript, Ruby/Ruby on Rails, Phaser 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| RPG Game            | A scavenger hunt game | Javascript, Phaser, Node.js              |
+| A Pinkman's Journey            | A tresure hunt game | Javascript, Phaser, Node.js              |
 | Acebook | A webapp | Ruby on Rails              |
 
 ## Work Experience
